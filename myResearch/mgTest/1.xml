@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG01 RX-78-2 高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG02 夏亚专用扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG03 扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG04 G-3高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG05 Z高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG06 高机动型扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG07 高机动型扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG08 夏亚专用勇士'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG09 高机动/炮击型勇士'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG10 GP01'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG11 勇士'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG12 GP01Fb'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG13 GP02A'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG14 高达Mk-Ⅱ奥古'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG15 高达Mk-Ⅱ泰坦斯'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG16 超级高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG17 吉姆'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG18 扎古Ⅰ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG19 扎古Ⅰ黑色'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG20 高机动型扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG21 大魔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG22 RX-78NT-1 艾利克斯'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG23 加大魔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG24 特装型吉姆'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG25 镇暴型吉姆'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG26 ZZ高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG27 RX79[G]陆战高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG28 RX-78-2 高达 Ver.1.5'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG29 沙扎比'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG30 全装甲ZZ高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG31 扎古Ⅰ 兰巴拉尔专用机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG32 老虎'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG33 Ez8高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG34 ν高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG35 京宝梵'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG36 改良型老虎'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG37 百式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG38 GP03S'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG39 灵格斯'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG40 陆战用先行量产型吉姆'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG41 卡碧尼'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG42 全装甲ZZ高达先行量产试作型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG43 Z Plus A1型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG44 神高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG45 钢加农'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG46 Z Plus C1型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG47 尊者高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG48 扎古Ⅱ 后期型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG49 闪光高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG50 吉姆改'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG51 吉恩号'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG52 RX-78/C.A  夏亚专用高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG53 镜高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG54 地球联邦军 扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG55 S高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG56 吉姆改C型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG57 RX-78-2 高达 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG58 夏亚专用型加大魔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG59 卡多专用勇士'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG60 Ex-S高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG61 魔蟹'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG62 战蟹'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG63 高达四号机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG64 高达五号机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG65 强袭高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG66 夏亚专用魔蟹'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG67 完美高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG68 卡碧尼MK-Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG69 飞翼高达 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG70 利克·迪亚斯'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG71 完美型吉恩号'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG72 自由高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG73 高扎古'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG74 强袭嫣红'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG75 飞翼零式高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG76 铁球 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG77 利克·迪亚斯 柯瓦特罗‧巴吉那 配色'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG78 高达一年战争游戏配色版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG79 铁球K型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG80 龟霸'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG81 百式空降包装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG82 高达Mk-Ⅱ2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG83 Z高达v2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG84 雷姆'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG85 高达Mk-Ⅱ泰坦斯2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG86 强人'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG87 F91 高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG88 铁球 Shark Mouth type'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG89 版骷髅高达X-1 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG90 强袭高达I.W.S.P.装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG91 量产型F91高达(哈里逊机)'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG92 狙击型吉姆'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG93 强袭自由高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG94 骷髅高达X1全覆式披风'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG95 Hi-ν 高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG96 强袭·黑'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG97 陆战型扎古Ⅱ 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG98 夏亚专用扎古Ⅱ 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG99 夏亚专用勇士 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG100 倒A高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG101 命运高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG102 RX-0 Unicorn 独角兽高达 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG103 黑色三连星专用扎古II 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG104 强袭改I.W.S.P.装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG105 MS-06F 扎古2布雷型2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG106 扎古IIF 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG107 勇士 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG108 重炮/大剑强袭高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG109 空战型脉冲高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG110 真武者頑馱無'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG111 RX-78 高达 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG112 加农扎古'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG113 强尼·莱汀专用扎古Ver2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG114 无限正义'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG115 Zaku II v2.0 (S.Matsunaga)白狼'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG116 新安洲 MSN-06S SINANJU Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG117 G战机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG118 吉姆2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG119 剑装脉冲高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG120 老虎2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG121 G战机+RX-78-2高达2.O VER(写实配色版)'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG122 能天使高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG123 钢坦克'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG124 蓝色异端高达2型改'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG125 卡碧尼 MK-II 波雷专用机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG126 V高达 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG127 G3 G3高达2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG128 GN-X'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG129 红色异端高达 改'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG130 独角兽高达 OVA版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG131 飞翼高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG132 武者高达MKII'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG133 全装甲高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG134 V高达 核心战机 强化装备套装 Ka版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG135 V-Dash高达 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG136 铁奥'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG137 EW死神高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG138 里歇尔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG139 00量子型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG140 里歇尔队长机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG141 EW地狱死神改高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG142 EW 神龙高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG143 EW飞翼高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG144 00 Raiser'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG145 EW 艾比安高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG146 Delta Plus'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG147 OO七剑高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG148 EW 沙漠高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG149 全装备独角兽高达Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG150 EW 重装高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG151 尸装决斗高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG152 AGE-1 标准型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG153 AGE-1 勇将型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG154 独角兽2号机 报丧女妖'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG155 AGE-1S 飞雀型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG156 RMS-108 马拉赛'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG157 迅雷高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG158  AGE-2  高达AGE-2  标准型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG159 暴风高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG160 圣盾高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG161 AGE-2H  黑暗猎犬'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG162 RX-93  V高达 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG163 多鲁基斯'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG164新安洲 原石Ver.ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG165 ReZEL C型 General Revil配备机式样'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG166 新安洲 OVA Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG167 杰斯塔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG168 强袭高达 Ver.RM'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG169 AGE2 双炮型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG170 基拉多加'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG171 RX-78-2 高达 Ver. 3.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG172 嫣红强袭 凤装备 Ver.RM'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG173 原型零式飞翼高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG174 MSN-04 沙扎比 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG175 创制强袭高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG176 高达X'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG177 战国异端高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG178 独角兽3号机 菲尼克斯'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG179 创制高达MK-Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG180 Turn X'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG181 Hi-Nu 高达 Ver. Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG182 异端高达蓝色机D型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG183 暗物质能天使高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG184 GX-9901 DoubleX高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG185 百式 Ver2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG186 新生凤凰高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG187 惊异红武士'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG188 RX-78-2 高达 Ver.GTO'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG189 V2高达 Ver.ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG190 自由高达2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG191 FA-78 全装备高达 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG192 高机动精神力扎古 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG193 RGM-79SP 狙击型吉姆Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG194 ZGMF-X13A 神意高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='ZGMF-X09A 正义高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MSZ-010 ZZ高达 Ver.KA'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='奥古 Mk-II高达 HD Color'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='泰坦斯 Mk-II高达 HD Color'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Z高达 HD color'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='百式 HD color'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭自由高达 Full Burst Mode'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='命运高达豪华版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='真武者豪华版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='能天使高达 豪华版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='独角兽高达 HD color版+格纳库'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='自由高达 Ver.2.0 &amp; 基拉·大和'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古2 白色食人魔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='老虎'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='大魔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭高达 Phase Shift off版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 大河原邦男插画版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达V1.5 川口制造'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06J 扎古v2.0 川口制造'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古2.0 Real Type'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 ver.O.Y.W. Movie Image Color'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2  高达 0079 MS战线 Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-3 Gundam G3 ver.O.Y.W.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 GUNDAM Ver.GUNDAM CRISIS'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='水中火箭筒/空装强袭高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06R-1 扎古 II ver.2.0 Proshop限定  川口制造'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用扎古 日清限定版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='飞翼零式改高达 新珍珠配色'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='川口克已版铁球'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='武者德川家康'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='命运高达 海涅样式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 945SH G Ver.GP30th Gundam'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Z高达2.0  Extra Finish Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG OO-Raiser Trans-am模式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='独角兽2号机 报丧女妖 最终决战Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 Ver.2.0版 大河原邦男配色'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Nemo Unicorn 沙漠 Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Nemo Unicorn Color Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06s Realtype Color 大河原邦男配色'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 2.0 CHINA SPECIAL Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='黑色三连星扎古 Ver.2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='多鲁基斯II'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06R-1A 高机动型渣古II 尤玛机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 超・大河原邦男展 会场限定'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古II Johnny Ridden专用机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='海盗高达X2 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='玛拉塞 Unicorn Color Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='AGE-2 特务队式样'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='卡多专用型高机动型扎古II'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-93 V高达 Ver. GFT'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG AGE-1 2号机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='基拉·多加 列珍·施耐德机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古加农 独角兽 Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='魔蟹 独角兽 Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='漆黑异端高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='红异端高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='海盗高达X3 Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='GUNDAM EXIA R2'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='全装备独角兽 透明Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='命运脉冲高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 Ver 3.0 Ver. GFT'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='创制突击高达 透明Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-1 试作型高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='全装甲高达 蓝色Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06F 多兹鲁·扎比专用扎古II'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='报丧女妖 命运女神'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-14C 勇士加农 MSV Color'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-07B 马·克贝专用老虎'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='S高达 推进器模式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='全装备独角兽高达 红色框架Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='00高达 七剑/G 监察者'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2高达 3.0 大阪限定Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用扎古 2.0 大阪限定Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='卡尔玛专用扎古II'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='OZ-00MS2B 多鲁基斯Ⅲ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-93 ν高达 Ver.Ka 机械透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Z高达3号机B型 GRAY ZETA 黄狼'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='报丧女妖.命运女神 最终战Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Z高达3号机P2型 Red Zeta(红蛇)'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='加大魔 多兹鲁·扎比机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06R-2 贾比·哈萨德专用扎古II'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='基拉多加 伏托朗专用机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='TurnA高达 月光蝶Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='原型零式飞翼高达 EW 彩色透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='红色异端高达 电镀骨架彩色透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='OOR高达 彩色透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='独角兽高达绿色框架 彩色透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RGC-80 吉姆加农'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭自由高达 机械设计师大河原邦男Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='FA-78-2 重高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='独角兽高达 Ver.Ka[CODE-852]'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='新生凤凰高达·曙光'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RGM-96X 杰斯塔加农'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='双头龙高达EW'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MSR-100S 量产型百式改'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='惊异能天使'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='FA-93-ν2HWS Hi-ν 高达 H.W.S. Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='高机动型扎古Ⅱ 艾力克机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='星创强袭 RG系统Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='自由高达 Ver.2.0 全弹发射特别涂层Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='基拉・多加 独角兽 Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MSZ-006A1 Z Plus A1型 独角兽 Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RGM-79 高出力型吉姆'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='百式改'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MSN-04 沙扎比 Ver.Ka  机械透明Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-02 高达（GTO版）机械透明Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='脉冲高达BLANCHE(艾尔莎专用)'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='完美强袭 Ver.rm 特别涂层'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='重炮手高达改 EW'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06R-2 罗伯特专用高机动型扎古II'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='FA-93HWSⅴ高达 H.W.S. Ver.Ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='V2高达 Ver.ka 电镀透明Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RMS-179 吉姆II'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='YMS-07 试作型老虎'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='狙击型吉姆II (白狗小队式样)'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='吉姆加农 (北美战线式样)'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='海盗高达X2改'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06R-1A 松永真专用扎古II custom type'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='GNX-604T 进阶型厄运式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='00 XN Raiser'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='吉姆II 奥谷配色ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78/C.A 夏亚专用高达 Ver. 3.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06R-1A 中川雅哉专用扎古II'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭高达 Ver.RM 透明Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='FA-78 全装高达 最后对话ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='高机动精神力扎古 最后对话ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 Ver.3.0 SUCCESS Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-121-1 高达TR-1[海兹尔改]'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06R-1 布列尼斯·欧格斯专用高机动扎古'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='自由高达2.0 透明Ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='吉姆Ⅱ 独角兽ver.'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='升级部件'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='独角兽枪'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='新安洲炮'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='红色异端高达70%透明甲'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS用大气层突入装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-93 ν高达 专用扩张装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='漫画版独角兽高达 盾牌组件'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='漫画版独角兽高达 盾牌组件 透明限定版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭高达 Ver.RM 剑炮装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 Ver. 3.0 扩张装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Universal booster'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='HI-v高达 Ver.KA 用HWS扩充部件'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='异端高达蓝色机D型 扩张支架'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='TurnA高达 扩张Effect Unit 月光蝶'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='百式Ver2.0 对应用米加粒子炮'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MG 沙扎比Ver. Ka &amp; RE/100 夜莺用扩张Effect Set'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='v2用光翼'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='自由高达2.0 扩张装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='全装备高达 Ver.Ka用武器&amp;装甲挂架'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='ⅴ高达 Ver.Ka 用H.W.S.扩张装备'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='神意高达用龙骑兵特效件'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用扎古Ⅱ透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古Ⅱ透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 20周年涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Z高达20周年涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='GP01Fb'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78 GP02A'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='黄金神高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='黄金尊者高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='自由高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭自由高达 Extra Finish版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='沙扎比金属涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='ν高达金属涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='独角兽 钛合金版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='新安洲 钛版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2高达 钛版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='报丧女妖 钛版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-93 V高达 ver.ka 钛版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='独角兽高达钛合金配色(红绿骨架Ver.)'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 MG10周年纪念版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MSZ-006-3 Z高达 三号机 阿姆罗机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 一年战争动画版颜色'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='能天使高达Trans-Am模式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 Ver.GTO 特别版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古Ⅱ'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='老虎'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='大魔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用勇士'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='V高达 ka'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='红色异端'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='大魔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='ZZ高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='沙扎比'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='ν高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='京宝樊'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='老虎特装型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='百式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='神高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='钢加农'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用魔蟹'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='自由高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='飞翼零式高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='KA版铁球'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2高达 一年战争配色版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='龟霸'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='高达Mk-Ⅱ2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Z高达2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强人'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='F91 高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='骷髅高达X1全覆式披风'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭自由高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Hi-ν 高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭·黑'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型扎古Ⅱ 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用扎古Ⅱ 2.0版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='命运高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='空战型脉冲高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2高达 2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='无限正义高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='吉姆2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='老虎2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='能天使高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='钢坦克'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='自由高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭自由高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强袭口红'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2高达2.0机械烟熏'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2高达 机械'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='命运高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用扎古2 JAF-CON会场限定'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚扎古2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='老虎2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古II 2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='OOQ高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 ver.1.5'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='ν高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='GAT-X105 强袭高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='迅雷高达 海市蜃楼启动版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2高达 CLEAR COLOR'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='加大魔'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='超级高达'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='全装甲高达艾利克斯 金属透明涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='加大魔 蓝色金属涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用型加大魔 金属涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用高达 金属涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='勇士 金属涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='GP03S 金属涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 金属涂装版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='2005会场限定版电镀珍珠色飞翼零式高达改'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 动画色最终特别版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='强人 最终特别版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用魔蟹电镀版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用扎古 II v2.0 Extra Finish电镀版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 1.0 Ver. CLUB MG限定'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 1.0 Ver. CLUB MG限定 银色版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 1.0 Ver. CLUB MG 限定 彩色版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 2.0 Ver. CLUB MG限定 金色版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='脉冲高达 09年C3电镀版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06J 扎古II 2.0'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='夏亚专用扎古Ⅱ 2013 C3限定版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='GP01 彩色镜面电镀版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='倒A高达金色电镀版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='战型高达 丛林涂装A'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型高达 丛林涂装B'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型高达 丛林涂装C'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型高达 极地涂装A'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型高达 极地涂装B'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型高达 极地涂装C'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型高达 沙漠涂装A'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型高达 沙漠涂装B'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='陆战型高达 沙漠涂装C'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='RX-78-2 高达 全透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='指挥官用型扎古Ⅱ 全透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='扎古Ⅱ 全透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Z高达 黄金版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='全装甲高达艾利克斯 黄金透明版'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Zaku II F2 Blue Clear Version'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='Zaku II F2 Red Clear Version'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='MS-06F-2 Zaku II F2 Clear Version'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='机动警察1号机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='机动警察2号机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='机动警察3号机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='黑色格里芬水中型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='黑色格里芬空中型'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='机动警察1号机 反应装甲模式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='机动警察2号机 闪光灯部件'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='机动警察3号机 反应装甲模式'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='机动警察特别套装'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='圣战士 登霸'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='圣战士 登霸 陶德机'&gt;</value></title></item>
+<item><title><value>&lt;Selector xpath='a/text()' data='圣战士 登霸 德卡马克机'&gt;</value></title></item>
+</items>
