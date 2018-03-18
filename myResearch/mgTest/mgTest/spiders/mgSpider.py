@@ -6,15 +6,15 @@ import execjs
 from bs4 import BeautifulSoup
 from lxml import etree
 from scrapy import Spider, Request
-from mgTest.items import MgItem
+from mgTest.mgTest.items import MgItem
 import gzip
 from io import  StringIO
 
 import logging
 
 
-class TwitterSpider(Spider):
-    name = "twitter"
+class DarkNetSpider(Spider):
+    name = "darkNet"
     allowed_domains = ["http://twitter.com"]
     #search_url = 'https://twitter.com/search?l=&q={Query}%20until%3A{Until}&src=typd'
     search_url = 'http://wpcxzq4ykmsxpacm.onion/archives.html'
