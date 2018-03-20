@@ -6,8 +6,7 @@ import execjs
 from bs4 import BeautifulSoup
 from lxml import etree
 from scrapy import Spider, Request
-from mgTest.mgTest.items import MgItem
-
+from mgTest.items import MgItem
 import logging
 
 
@@ -66,77 +65,35 @@ class TwitterSpider(Spider):
         self.tweetEnd = 974650501387227136
         #yield Request(self.search_url_pages.format(Query='terrorism', TweetEnd=self.tweetEnd, TweetFirst=self.tweetFirst),callback=self.parse,dont_filter=True)
         yield Request(
-            self.search_url.format(Query='terrorism',Until='2017-07-14'),
+            self.search_url.format(Query='东突厥斯坦',Until='2017-07-14'),
             callback=self.parse, dont_filter=True)
 
 
 
     def parse(self, response):
-        # print("********************")
-        # print(response.text)
-        # print("********************")
-        '''
-        print("干正事了：")
-        updateData = json.loads(response.text)
-        html = updateData["items_html"]
-        updateSoup = BeautifulSoup(html)
-        tarfile = '../../info/html.txt'
-        tar = open(tarfile, 'wb')
-        tar.write(updateSoup.prettify().encode('utf-8'))
-        tweets = updateSoup.find_all(name='li', attrs='js-stream-item stream-item stream-item ')
-        print("tweets:")
-        print("123456")
-        # print(tweets)
-        i = 0
-
-        tweet_size = len(tweets)
-        if tweet_size != 0:
-            # items_id = tweets[0].find_all('li', class="js-")
-            self.tweetFirst = tweets[0].attrs['data-item-id']
-            # print('tweetFirst:')
-            # print(tweets[0])
-            self.tweetEnd -= 1000
-
-        for tweet in tweets:
-            tweet = tweet.find_all('p', 'TweetTextSize js-tweet-text tweet-text')
-            print(i)
-            print(tweet[0].get_text())
-            i += 1
-        '''
         print('---------first request---------')
         selector = scrapy.Selector(response)
         tweets = selector.xpath('//li[@class = "js-stream-item stream-item stream-item\n"]')
         tweet_size = len(tweets)
-        # print('----------')
-        # print(tweets)
-        # print(tweet_size)
-        # print('----------')
         if tweet_size != 0:
             self.tweetFirst = tweets[0].xpath('@data-item-id')[0].extract()
             self.tweetEnd -= 10000
-            print(self.tweetFirst)
-        #
-        # tarfile = "../../info/terrorism.txt"
-        #with open(tarfile, 'wb') as tar:
+            # while True:
+            #     print(self.tweetFirst)
+
+        tarfile = "../../info/tweet/turkestan.txt"
+        s = ""
+        tar = open(tarfile, "ab")
         for tweet in tweets:
             tweetText = tweet.xpath('.//div[@class = "js-tweet-text-container"]/p')[0].extract()
             tweetTime = tweet.xpath('.//div[@class = "stream-item-header"]/small')[0].extract()
             soup = BeautifulSoup(tweetText)
             soupTime = BeautifulSoup(tweetTime)
-            #time = dict(soup.a.attrs)
-        #         # print(time)
             self.count += 1
             print('-------twitter' + str(self.count) + '--------')
-        #         # print(soupTime.text)
-            print(soup.text)
-        #         # print(tweetText)
-        #
-        #         s = soup.text.encode('utf-8')
-        #         s += b'\r\n'
-        #         # print("--------------------------------------------------")
-        #         tar.write(s)
-        #
-        #         print(s)
+            s = soup.text
+            s += "\r\n"
+            tar.write(s.encode('utf-8'))
         i=1
         while(True):
             i+=1
@@ -144,7 +101,7 @@ class TwitterSpider(Spider):
             if currentEnd<0:
                 break
             yield Request(
-                url=self.search_url_pages.format(Query='terrorism', TweetEnd=str(int(self.tweetFirst) - 500000000000000*i),
+                url=self.search_url_pages.format(Query='东突厥斯坦', TweetEnd=str(int(self.tweetFirst) - 10000*i),
                                                  TweetFirst=self.tweetFirst), callback=self.parse_json,dont_filter=True)
 
 
@@ -159,7 +116,7 @@ class TwitterSpider(Spider):
             twitterEntry['id'] = self.count
             twitterEntry['text'] = entry.get_text()
             self.result.append(twitterEntry)
-            print(entry.get_text())
+            # print(entry.get_text())
                 #f.write(str(entry.get_text().encode('utf-8','ignore'))[2:])
                 #f.write('\n')
                 #f.close()

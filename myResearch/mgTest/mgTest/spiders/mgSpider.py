@@ -6,7 +6,7 @@ import execjs
 from bs4 import BeautifulSoup
 from lxml import etree
 from scrapy import Spider, Request
-from mgTest.mgTest.items import MgItem
+from mgTest.items import MgItem
 import gzip
 from io import  StringIO
 
