@@ -24,7 +24,7 @@ class DarkNetSpider(Spider):
     count = 0
     tweetFirst = 0
     result = []
-    translate_count = 0;
+    translate_count = 0
     ctx = execjs.compile(""" 
            function tk(a) 
             {var TKK = ((function() 
