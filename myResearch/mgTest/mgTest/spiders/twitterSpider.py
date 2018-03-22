@@ -99,7 +99,7 @@ class TwitterSpider(Spider):
             twitterEntry['id'] = self.count
             twitterEntry['text'] = entry.get_text()
             self.result.append(twitterEntry)
-            print(type(entry.get_text()))
+            # print(type(entry.get_text()))
             print(entry.get_text())
 
             if entry.get_text() == "":
@@ -120,11 +120,11 @@ class TwitterSpider(Spider):
         # content = transData[0][0][0]
         print("translation:" + content)
 
-        with open('../info/tweet/isis.txt', 'a') as tar:
+        with open('../../info/tweet/isis.txt', 'ab') as tar:
             # self.translate_count += 1
             # tar.write('-------video' + str(self.translate_count) + '--------\n')
-            tar.write(content)
-            tar.write('\n')
+            tar.write(content.encode('utf-8'))
+            tar.write(b'\r\n')
 
 
 
