@@ -40,7 +40,7 @@ class TwitterSpider(Spider):
     def start_requests(self):
         #yield Request(self.search_url_pages.format(Query='terrorism', TweetEnd=self.tweetEnd, TweetFirst=self.tweetFirst),callback=self.parse,dont_filter=True)
         yield Request(
-            self.search_url.format(Query='isis',Until='2017-07-14'),
+            self.search_url.format(Query='terrorism',Until='2017-07-14'),
             callback=self.parse, dont_filter=True)
 
 
@@ -84,7 +84,7 @@ class TwitterSpider(Spider):
             if currentEnd<0:
                 break
             yield Request(
-                url=self.search_url_pages.format(Query='isis', TweetEnd=str(currentEnd),
+                url=self.search_url_pages.format(Query='terrorism', TweetEnd=str(currentEnd),
                                                  TweetFirst=self.tweetFirst), callback=self.parse_json,dont_filter=True)
 
 
@@ -120,7 +120,7 @@ class TwitterSpider(Spider):
         # content = transData[0][0][0]
         print("translation:" + content)
 
-        with open('../../info/tweet/isis.txt', 'ab') as tar:
+        with open('../../info/tweet/terrorism.txt', 'ab') as tar:
             # self.translate_count += 1
             # tar.write('-------video' + str(self.translate_count) + '--------\n')
             tar.write(content.encode('utf-8'))
