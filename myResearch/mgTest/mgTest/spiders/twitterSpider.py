@@ -40,7 +40,7 @@ class TwitterSpider(Spider):
     def start_requests(self):
         #yield Request(self.search_url_pages.format(Query='terrorism', TweetEnd=self.tweetEnd, TweetFirst=self.tweetFirst),callback=self.parse,dont_filter=True)
         yield Request(
-            self.search_url.format(Query='east turkestan',Until='2017-07-14'),
+            self.search_url.format(Query='东突厥斯坦',Until='2017-07-14'),
             callback=self.parse, dont_filter=True)
 
 
@@ -58,22 +58,26 @@ class TwitterSpider(Spider):
         # tarfile = "../info/tweet/isis.txt"
         # s = ""
         # with open(tarfile, "a") as tar:
-        for tweet in tweets:
-            tweetText = tweet.xpath('.//div[@class = "js-tweet-text-container"]/p')[0].extract()
-            tweetTime = tweet.xpath('.//div[@class = "stream-item-header"]/small')[0].extract()
-            soup = BeautifulSoup(tweetText)
-            soupTime = BeautifulSoup(tweetTime)
-            self.count += 1
-            # print('-------twitter' + str(self.count) + '--------')
-            # s += soup.text
-            # s += "\r\n"
-            if soup.text == "":
-                continue
-            else:
-                tkValue = self.tk(soup.text)
+        with open('../../info/tweet/turkestan_zh.txt', 'ab') as tar:
+            for tweet in tweets:
+                tweetText = tweet.xpath('.//div[@class = "js-tweet-text-container"]/p')[0].extract()
+                tweetTime = tweet.xpath('.//div[@class = "stream-item-header"]/small')[0].extract()
+                soup = BeautifulSoup(tweetText)
+                soupTime = BeautifulSoup(tweetTime)
+                self.count += 1
+                # print('-------twitter' + str(self.count) + '--------')
+                # s += soup.text
+                # s += "\r\n"
+                if len(soup.text) < 5:
+                    continue
+                tar.write(soup.text.strip().encode('utf-8'))
+                tar.write(b'\r\n')
 
-            yield Request(url=self.translate_url.format(Query=(str)(soup.text), Tk=tkValue),
-                          callback=self.parse_translate, dont_filter=True)
+            # else:
+            #     tkValue = self.tk(soup.text)
+            #
+            # yield Request(url=self.translate_url.format(Query=(str)(soup.text), Tk=tkValue),
+            #               callback=self.parse_translate, dont_filter=True)
                 # tar.write(soup.text.encode('utf-8'))
                 # tar.write(b"\r\n")
         i=1
@@ -84,7 +88,7 @@ class TwitterSpider(Spider):
             if currentEnd<0:
                 break
             yield Request(
-                url=self.search_url_pages.format(Query='east turkestan', TweetEnd=str(currentEnd),
+                url=self.search_url_pages.format(Query='东突厥斯坦', TweetEnd=str(currentEnd),
                                                  TweetFirst=self.tweetFirst), callback=self.parse_json,dont_filter=True)
 
 
@@ -93,22 +97,25 @@ class TwitterSpider(Spider):
         html = updateData["items_html"]
         updateSoup = BeautifulSoup(html)
         # print("different page!")
-        for entry in updateSoup.find_all('div',class_='js-tweet-text-container'):
-            self.count+=1
-            twitterEntry = MgItem()
-            twitterEntry['id'] = self.count
-            twitterEntry['text'] = entry.get_text()
-            self.result.append(twitterEntry)
-            # print(type(entry.get_text()))
-            print(entry.get_text())
+        with open('../../info/tweet/turkestan_zh.txt', 'ab') as tar:
+            for entry in updateSoup.find_all('div',class_='js-tweet-text-container'):
+                self.count+=1
+                twitterEntry = MgItem()
+                twitterEntry['id'] = self.count
+                twitterEntry['text'] = entry.get_text()
+                self.result.append(twitterEntry)
+                # print(type(entry.get_text()))
+                print(entry.get_text())
 
-            if entry.get_text() == "":
-                continue
-            else:
-                tkValue = self.tk(entry.get_text())
+                if len(entry.get_text()) < 5:
+                    continue
+                tar.write(entry.get_text().strip().encode('utf-8'))
+                tar.write(b'\r\n')
+            # else:
+            #     tkValue = self.tk(entry.get_text())
 
-            yield Request(self.translate_url.format(Query=(str)(entry.get_text()), Tk=tkValue),
-                          callback=self.parse_translate, dont_filter=True)
+            # yield Request(self.translate_url.format(Query=(str)(entry.get_text()), Tk=tkValue),
+            #               callback=self.parse_translate, dont_filter=True)
 
     def parse_translate(self, response):
         print("我进来了！！！！")
